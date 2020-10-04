@@ -1,6 +1,6 @@
 # Project-Space-Watch
 
-This is a open source repository made available for NASA International Space Apps Challenge 2020 by Team Planet. The Project Space Watch is developed for the challenge "Sustain/Sustaining our planet for future generations".
+This is a open source repository made available for NASA International Space Apps Challenge 2020 by Team Planet. The Project Space Watch is developed for the challenge "Sustain/Sustaining our planet for future generations". The file to access the Project Space Watch ML tools for the anlysis open the notebook with .ipynb extension.
 
 Sustaining Our Planet For Future Generations
 
