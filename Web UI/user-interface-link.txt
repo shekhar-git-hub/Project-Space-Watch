@@ -1,6 +1,7 @@
 For easy UI interface to convey the message, the prototype is also deployed as below. It is also under development.
 •Tools used were Html, Css, Js, Django and SQLite3.
 
+Go through the link below to access the initial prototype. Or the Web UI files has been forked in the main page shekhar-git-hub. 
 https://github.com/awebisam/team_planet_nasa2020 
 
 
