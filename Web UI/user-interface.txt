@@ -1,1 +1,7 @@
+For easy UI interface to convey the message, the prototype is also deployed as below. It is also under development.
+•	Tools used were Html, Css, Js, Django and SQLite3.
+
+https://github.com/awebisam/team_planet_nasa2020 
+
+
 
